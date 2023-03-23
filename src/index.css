@@ -1,0 +1,14 @@
+/* Short CSS to make everything a bit easier to read */
+body {
+  margin: 0;
+  text-align: center;
+  font-weight: 3rem;
+  min-height: 150vh;
+}
+* {
+  font-family: monospace, Helvetica, sans-serif;
+  margin-bottom: 10px;
+}
+.matrix-p {
+  line-height: 0.5rem;
+}
